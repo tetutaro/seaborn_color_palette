@@ -1,0 +1,5 @@
+numpy
+matplotlib >= 3.3.2
+seaborn >= 0.11.0
+colorspacious >= 1.1.2
+ipywidgets >= 7.5.1
