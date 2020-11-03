@@ -1,5 +1,11 @@
-numpy
+jupyterlab >= 2.2.9
+numpy >= 1.19.4
 matplotlib >= 3.3.2
 seaborn >= 0.11.0
+pandas >= 1.1.4
 colorspacious >= 1.1.2
 ipywidgets >= 7.5.1
+requests >= 2.24.0
+beautifulsoup4 >= 4.9.3
+pykakasi >= 2.0.1
+scikit-learn >= 0.23.2
